@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# GitHub'ın 100MB dosya sınırını aşıyor; koddan yeniden eğitilebilir
+outputs_benchmark/checkpoints/VGG-Scratch_best.pth
